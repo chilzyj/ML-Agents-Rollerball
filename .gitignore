@@ -1,0 +1,45 @@
+# OS Generated
+# ============
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+[Dd]esktop.ini
+
+# Visual Studio / MonoDevelop generated
+# =====================================
+[Ee]xported[Oo]bj/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# Unity generated
+# ===============
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Aa]sset[Bb]undles/
+[Aa]ssets/[Ss]treaming[Aa]ssets/[Aa]sset[Bb]undles/
+.vs/
+sysinfo.txt
+*.stackdump
+
+# Blender generated
+# ===============
+*.blend1
+*.blend1.meta
+
+# Refers
+[Rr]efers/
+[Nn]NTraining/results/
+.vscode/
